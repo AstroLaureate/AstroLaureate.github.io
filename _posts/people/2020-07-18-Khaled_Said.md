@@ -6,6 +6,8 @@ date: 2020-07-18
 categories: [people]
 tags: [staff]
 loc: 'people/khaled/'
+permalink: /people/KhaledSaid
+
 ---
  
 {% include image.html url="main.jpg" class="img-mugshot" %}

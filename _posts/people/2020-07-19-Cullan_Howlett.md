@@ -6,6 +6,8 @@ date: 2020-07-19
 categories: [people]
 tags: [staff]
 loc: 'people/cullan/'
+permalink: /people/CullanHowlett
+
 ---
  
 {% include image.html url="main.jpg" class="img-mugshot" %}

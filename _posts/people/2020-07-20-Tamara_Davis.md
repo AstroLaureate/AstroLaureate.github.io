@@ -6,6 +6,8 @@ date: 2020-07-20
 categories: [people]
 tags: [staff]
 loc: 'people/tamara/'
+permalink: /people/TamaraDavis
+
 ---
  
 {% include image.html url="main.jpg" class="img-mugshot" %}
