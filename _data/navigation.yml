@@ -1,0 +1,11 @@
+- name: People
+  href: '/people/'
+
+- name: Projects
+  href: '/projects/'
+
+- name: Papers
+  href: '/papers/'
+
+- name: News
+  href: '/news/'

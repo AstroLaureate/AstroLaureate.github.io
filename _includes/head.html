@@ -1,0 +1,39 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+  {% if page.desc %}
+  <meta content="{{ page.desc }}" name="description">
+  {% endif %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+  <meta name="author" content="{{ site.author.name }}">
+  {% if page.loc %}
+  <meta property="og:image" content="{{site.img_path}}{{page.loc}}thumb_fb.jpg">
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{page.desc}}">
+  <meta property="og:site" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{site.author.twitter_username}}">
+  <meta name="og:image:width" content="600">
+  <meta name="og:image:width" content="335">
+  {% endif %}
+
+  <title>
+    {% if page.title != "index" %}
+    {{ page.title }}
+    {% else %}
+    {{ site.global_title }}
+    {% endif %}
+  </title>
+  <!-- favicon -->
+  <link rel="shortcut icon" href="{{ '/static/img/favicon.ico' | prepend: site.baseurl }}">
+  <link href="{{ '/static/css/style.css'| prepend: site.baseurl }}" rel="stylesheet">
+  <script src="{{ '/bower_components/jquery/dist/jquery.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/bower_components/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
+  <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:600,700' rel='stylesheet' type='text/css'>
+
+
+
+</head>
