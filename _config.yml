@@ -16,10 +16,10 @@ author:
 
 # sections
 sections:
-#  - id: 'about-me'
-#    name: 'About'
-#    tpl: 'about.html'
-#    css: ''
+  - id: 'about-me'
+    name: 'About'
+    tpl: 'about.html'
+    css: ''
 
   - id: 'home'
     name: 'Home'

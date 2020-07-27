@@ -4008,6 +4008,7 @@ code {
   max-width: 880px;
   margin: auto;
   box-shadow: 0 0 8px 0px #cccccc7a;
+  border-top: none;
   position: relative;
 }
 .ibox-footer {
@@ -6827,7 +6828,7 @@ body.body-small .vote-icon {
 body.landing-page {
   color: #676a6c;
   font-family: 'Open Sans', helvetica, arial, sans-serif;
-  background-color: #fff;
+  background-color: #f8f8f8;
 }
 .landing-page {
   /* CUSTOMIZE THE NAVBAR
@@ -7843,6 +7844,18 @@ section.trips .trip {
   object-fit: cover;
 }
 
+.img.img-mugshot {
+  max-width: 300px;
+  border-radius: 300px;
+  border: 10px solid white;
+}
+
+@media (min-width: 1500px) {
+  .img.img-mugshot {
+    margin-top: -100px;
+    margin-bottom: -30px;
+  }
+}
 @media (min-width: 1050px) {
   .img-smaller {
     width: 70%;
@@ -8132,7 +8145,10 @@ section.trips .trip {
   }
 }
 @media (min-width: 1500px) {
-  .sidebar-container {
+  .sidebar-container .margin-when-wide {
+    padding: 0 15%;
+  }
+/*  .sidebar-container {
     position: absolute;
     left: 0;
     top: 0;
@@ -8142,16 +8158,16 @@ section.trips .trip {
     max-width: 300px;
     background-color: #ffffff;
     border-right: 1px solid #dddddd;
-  }
-  .hide-if-big {
-    display: none;
-  }
+  }*/
 /*  .front-container {
     margin-left: 300px;
   }*/
 }
 .sidebar-container .desc {
   padding: 20px;
+}
+.sidebar-container p {
+  margin-bottom: 2em;
 }
 .sidebar-container img {
   padding: 20px 0;
