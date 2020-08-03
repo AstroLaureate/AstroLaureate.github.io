@@ -4,8 +4,8 @@ title:  "Dr Cullan Howlett"
 desc: "Postdoctoral Research Fellow"
 date: 2020-07-19
 categories: [people]
-tags: [staff]
-loc: 'people/cullan/'
+tags: [Staff, People]
+loc: 'people/CullanHowlett/'
 permalink: /people/CullanHowlett
 
 ---

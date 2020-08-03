@@ -1,12 +1,12 @@
 ---
 layout: person
-title:  "Dr Khaled Said Soliman"
+title:  "Dr Samuel Hinton"
 desc: "Postdoctoral Research Fellow"
-date: 2020-07-18
+date: 2020-07-17
 categories: [people]
 tags: [Staff, People]
-loc: 'people/KhaledSaid/'
-permalink: /people/KhaledSaid
+loc: 'people/SamuelHinton/'
+permalink: /people/SamuelHinton
 
 ---
  
@@ -14,12 +14,8 @@ permalink: /people/KhaledSaid
 
 <div class="text-center" markdown="1">
 
-# Dr Cullan Howlett
+# Dr Samuel Hinton
 
-
-*Do we want contact details here or not?*
-
-*How would we like a mugshot incorporated*
 
 </div>
  
