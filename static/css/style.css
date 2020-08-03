@@ -7866,7 +7866,7 @@ section.trips .trip {
 @media (min-width: 1500px) {
   .img.img-mugshot {
     margin-top: -100px;
-    margin-bottom: -30px;
+    margin-bottom: -10px;
   }
 }
 @media (min-width: 1050px) {
