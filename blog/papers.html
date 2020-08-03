@@ -3,45 +3,42 @@ layout: blog
 title: Papers
 permalink: /papers/
 ---
-<div class="">
+
+{% assign years =  site.data.papers | map: 'year' | uniq | sort | reverse %}
+<div class="row gray-section">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
-                <h1><span>Papers</span></h1>
+                <h1>Papers</h1>
             </div>
         </div>
-        <div class="row features-block">
-            <div class="smaller blogs container">
-                {% assign categories =  site.categories['paper'] | map: 'tags' | uniq | sort %}
-                <div class="blog-nav bottom-spaced-sm">
-                    <ul class="nav nav-tabs nav-justified">
-                        {% for cat in categories %}
-                        <li class="text-capitalize {{ cat }}"><a onclick="toggle_nav('{{ cat }}');">{{ cat }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                {% for post in site.categories['paper'] %}
-                {% assign key = post.loc | append: "thumb_card.jpg" %}
-                <div class="post blog no-side-padding col-sm-4 col-md-4 col-lg-3 wow fadeIn padding-bottom {{post.tags}}" >
-                    <a href="{{post.url}}">
-                        <div class="card">
-                            <img src="data:image/gif;base64, {{site.data.imgdata[key].data}}" data-src="{{site.img_path}}{{post.loc}}thumb_card.jpg" class="img-card img" width="{{site.data.imgdata[key].width}}" height="{{site.data.imgdata[key].height}}"/>
-                            <div class="card-footer block-content">
-                                <div class="card-title">
-                                    <h4>{{post.title}}</h4>
+        <div class="wrapper wrapper-content" >
+            <div class="row papers">
+                <ul id="pag-itemContainer" style="list-style:none;">
+                    {% for year in years %}
+                    <div class="row">
+                        <h2 class="fancy"><span>{{ year }}</span></h2>
+                        {% for project in site.data.papers %}
+                        {% if project.year == year %}
+                        {% assign loopindex = forloop.index %}
+                        <div class="paper-block col-sm-6 padding-bottom" >
+                            <a href="{{project.url}}">
+                                <div class="card paper-content {% if project.highlight %} highlight {% endif %}">
+                                    <div class="portfolio-text">
+                                        <h4>{{ project.title | truncate:110 }}</h4>
+                                        <span class="spacer">{{ project.desc }} {{ project.authors }}</span>
+                                        <p class="bottom"> {{ project.journal }}<span class="pull-right">{{ project.month }} {{ project.year }} </span></p>
+                                    </div>
+                                    <div class="clearfix"></div>
                                 </div>
-                                <div class="card-desc">
-                                    <p>{{post.desc}}</p>
-                                </div>
-                                <div class="card-tag">
-                                    <p class="{{ post.tags }}">{{post.tags}}</p>
-                                </div>
-                            </div>
+                            </a>
                         </div>
-                    </a>
-                </div>
-                {% endfor %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
     </div>

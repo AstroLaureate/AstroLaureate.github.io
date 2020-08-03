@@ -1,6 +1,8 @@
-{% assign key = page.loc | append: include.url %}
-{% if site.data.imgdata[key] %}
-<img src="data:image/gif;base64, {{site.data.imgdata[key].data}}" data-src="{{site.img_path}}{{page.loc}}{{include.url}}" class="img center-block img-responsive img-blog {{include.class}}" width="{{site.data.imgdata[key].width}}" height="{{site.data.imgdata[key].height}}"/>
-{% else %}
-<img src="{{site.img_path}}{{page.loc}}{{include.url}}" class="img center-block img-responsive img-blog {{include.class}}"/>
-{% endif %}
+<div class="{{include.div-class}}">
+    <img src="{{site.img_path}}{{page.loc}}{{include.url}}" class="img center-block img-responsive img-blog {{include.class}} {% if include.caption %} img-caption {% endif %}"/>
+    {% if include.caption %}
+    <figcaption>
+        <p>{{include.caption}}</p>
+    </figcaption>
+    {% endif %}
+</div>

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Papers
+title: News
 permalink: /news/
 ---
 <div class="">
@@ -21,12 +21,12 @@ permalink: /news/
                         {% endfor %}
                     </ul>
                 </div>
-                {% for post in site.categories['paper'] %}
+                {% for post in site.categories['news'] %}
                 {% assign key = post.loc | append: "thumb_card.jpg" %}
                 <div class="post blog no-side-padding col-sm-4 col-md-4 col-lg-3 wow fadeIn padding-bottom {{post.tags}}" >
                     <a href="{{post.url}}">
                         <div class="card">
-                            <img src="data:image/gif;base64, {{site.data.imgdata[key].data}}" data-src="{{site.img_path}}{{post.loc}}thumb_card.jpg" class="img-card img" width="{{site.data.imgdata[key].width}}" height="{{site.data.imgdata[key].height}}"/>
+                            <img src="{{site.img_path}}{{post.loc}}thumb_card.jpg" class="img-card img" width="300" height="233"/>
                             <div class="card-footer block-content">
                                 <div class="card-title">
                                     <h4>{{post.title}}</h4>

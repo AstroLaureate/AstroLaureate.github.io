@@ -1,5 +1,23 @@
 <div class="index-footer"></div>
 
+
+<script type="text/javascript">
+  var cbpAnimatedHeader = (function() {
+    var changeHeaderOn = 100, scrollDebounce = 250;
+    function scrollPage() {
+      $('.navbar-default').toggleClass('navbar-scroll', scrollY() >= changeHeaderOn);
+    }
+    function scrollY() {
+      return window.pageYOffset || document.documentElement.scrollTop;
+    }
+    window.addEventListener('scroll', function() { setTimeout(scrollPage, scrollDebounce); }, false);
+  })();
+
+
+
+</script>
+
+
 <!-- Google analytics -->
 {% if site.ga %}
   <script>

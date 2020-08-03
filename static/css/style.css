@@ -4005,7 +4005,7 @@ code {
   border-image: none;
   border-style: solid solid none;
   border-width: 1px 0;
-  max-width: 880px;
+  max-width: 800px;
   margin: auto;
   box-shadow: 0 0 8px 0px #cccccc7a;
   border-top: none;
@@ -7219,6 +7219,19 @@ body.landing-page {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
+.img-blog.img-caption {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+figcaption p {
+  font-style: italic;
+  color: #999999;
+  padding: 0 10% 0 10% !important;
+  text-align: center !important;
+}
+
 .landing-page .pricing-plan {
   margin: 20px 30px 0 30px;
   border-radius: 4px;
@@ -8505,4 +8518,8 @@ section.trips .trip {
 .email {
   color: #3385FF;
   font-style: italic;
+}
+
+.article .text-center p {
+  text-align: center;
 }
