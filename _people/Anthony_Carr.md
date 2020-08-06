@@ -2,11 +2,10 @@
 layout: person
 title:  "Anthony Carr"
 desc: "PhD Candidate"
-date: 2020-07-16
-categories: [people]
-tags: [PhD Candidate, People]
+tags: [PhD Candidate, Current]
 loc: 'people/AnthonyCarr/'
 permalink: /people/AnthonyCarr
+rank: 30
 
 ---
  

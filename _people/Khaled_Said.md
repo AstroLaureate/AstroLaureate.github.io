@@ -2,11 +2,10 @@
 layout: person
 title:  "Dr Khaled Said Soliman"
 desc: "Postdoctoral Research Fellow"
-date: 2020-07-18
-categories: [people]
-tags: [Staff, People]
+tags: [Staff, Current]
 loc: 'people/KhaledSaid/'
 permalink: /people/KhaledSaid
+rank: 20
 
 ---
  

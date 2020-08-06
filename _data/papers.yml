@@ -1,9 +1,30 @@
+- title: "Joint analysis of 6dFGS and SDSS peculiar velocities for the growth rate of cosmic structure and tests of gravity"
+  year: 2020
+  month: July
+  authors: "Khaled Said <i>et al</i>"
+  journal: MNRAS
+  url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.1275S/abstract
+
+- title: "Can an Infinitely Long Object Fit in an Expanding Universe?"
+  year: 2020
+  month: May
+  authors: Aaron Glanville, Tamara Davis
+  journal: arXiv
+  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200501968G/abstract
+
 - title: BARRY and the BAO model comparison
   year: 2020
   month: April
   authors: Samuel Hinton, Cullan Howlett, Tamara Davis
   journal: MNRAS
   url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4078H/abstract
+
+- title: "Standard siren speeds: improving velocities in gravitational-wave measurements of H0"
+  year: 2020
+  month: March
+  authors: Cullan Howlett, Tamara Davis
+  journal: MNRAS
+  url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.3803H/abstract
 
 - title: "Pippin: A pipeline for supernova cosmology"
   year: 2020

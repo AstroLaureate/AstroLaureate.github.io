@@ -2,7 +2,7 @@ title: "AstroLaureate"
 global_title: "AstroLaureate"
 baseurl: ""
 url: "https://AstroLaureate.github.io"
-content_path: "static/img/blog"
+content_path: "static/img"
 img_path: 'https://AstroLaureate.github.io/static/img/'
 repository: AstroLaureate/AstroLaureate
 github: [metadata]
@@ -13,6 +13,11 @@ author:
   first_name: 'Samuel'
   last_name: 'Hinton'
   email: 'samuelreay@gmail.com'
+
+collections:
+  people:
+    output: true
+    sort_by: rank
 
 # sections
 sections:

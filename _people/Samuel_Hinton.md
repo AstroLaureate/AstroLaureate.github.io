@@ -2,11 +2,10 @@
 layout: person
 title:  "Dr Samuel Hinton"
 desc: "Postdoctoral Research Fellow"
-date: 2020-07-17
-categories: [people]
-tags: [Staff, People]
+tags: [Staff, Current]
 loc: 'people/SamuelHinton/'
 permalink: /people/SamuelHinton
+rank: 20
 
 ---
  

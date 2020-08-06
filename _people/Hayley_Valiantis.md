@@ -2,11 +2,10 @@
 layout: person
 title:  "Hayley Valiantis"
 desc: "Administrative Officer"
-date: 2020-07-16
-categories: [people]
-tags: [Staff, People]
+tags: [Staff, Current]
 loc: 'people/HayleyValiantis/'
 permalink: /people/HayleyValiantis
+rank: 20
 
 ---
  

@@ -2,11 +2,10 @@
 layout: person
 title:  "Prof. Tamara Davis"
 desc: "ARC Laureate Fellow"
-date: 2020-07-20
-categories: [people]
-tags: [Staff, People]
+tags: [Staff, Current]
 loc: 'people/TamaraDavis/'
 permalink: /people/TamaraDavis
+rank: 10
 
 ---
  

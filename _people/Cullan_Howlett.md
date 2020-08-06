@@ -2,11 +2,10 @@
 layout: person
 title:  "Dr Cullan Howlett"
 desc: "Postdoctoral Research Fellow"
-date: 2020-07-19
-categories: [people]
-tags: [Staff, People]
+tags: [Staff, Current]
 loc: 'people/CullanHowlett/'
 permalink: /people/CullanHowlett
+rank: 20
 
 ---
  

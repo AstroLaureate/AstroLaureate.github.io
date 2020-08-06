@@ -13,12 +13,13 @@
 Run either `runLocal.bat` or `runLocal.sh` depending on your OS. It should auto update, so if you make
 changes to a post, if you wait a second or two and refresh the website it should have updated.
 
-### Making a new post
+### Adding or editing a new person
 
-1. Make a new markdown file under the relevant folder in `_posts`
+1. Make a new markdown file under the relevant folder (`_people` for a new person, or look under `_posts` for news or projects)
 2. Fill out the info at the top however you want
 3. The `loc` property tells the site where to look for media like images, so under `static/img/<loc>`, you can put your images, videos, etc
-4. Commit and push. Everything on master will appear on the primary website within a few minutes.
+4. For people, "rank" determines sorting order. 50 for Tam, 40 for postdocs, 30 for PhD Candidates, 20 for Honours, and we can fine tune.
+5. Commit and push. Make sure your images are added to git. Everything on master will appear on the primary website within a few minutes.
 
 
 ### Things you can do in a post
@@ -40,3 +41,7 @@ new html file in the `_includes` directory (or send a message to Sam who can hel
 Welcome to CSS. `style.css` is where its at. The site has an old Bootstrap 3 css framework, so you can
 use any of those helper classes when customising. For an example, notice in each persons profile 
 I added a div to center some of the text at the top.
+
+### I want to add a new paper
+
+Open up the `_data/papers.yml` file and add a new entry.

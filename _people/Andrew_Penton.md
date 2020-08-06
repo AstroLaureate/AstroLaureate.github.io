@@ -2,11 +2,10 @@
 layout: person
 title:  "Andrew Penton"
 desc: "PhD Candidate"
-date: 2020-07-15
-categories: [people]
-tags: [PhD Candidate, People]
+tags: [PhD Candidate, Current]
 loc: 'people/AndrewPenton/'
 permalink: /people/AndrewPenton
+rank: 30
 
 ---
  
