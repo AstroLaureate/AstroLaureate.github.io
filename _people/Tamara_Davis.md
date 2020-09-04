@@ -16,9 +16,10 @@ rank: 10
 # Professor Tamara Davis
 
 
-*Do we want contact details here or not?*
+[**Email**](mailto:tamard@physics.uq.edu.au)
 
-*How would we like a mugshot incorporated*
+
+
 
 </div>
  
