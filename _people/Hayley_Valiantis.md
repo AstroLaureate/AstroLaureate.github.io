@@ -13,7 +13,7 @@ rank: 20
 <div class="text-center" markdown="1">
 
 # Hayley Valiantis
-
+[**Email**](mailto:h.valiantis@uq.edu.au)
 </div>
  
 # Biography
