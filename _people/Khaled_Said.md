@@ -18,7 +18,7 @@ rank: 20
 
 *Do we want contact details here or not?*
 
-*How would we like a mugshot incorporated*
+
 
 </div>
  
