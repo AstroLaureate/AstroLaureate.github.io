@@ -16,7 +16,7 @@ rank: 20
 # Dr Cullan Howlett
 
 
-*Do we want contact details here or not?*
+[**Email**](mailto:c.howlett@uq.edu.au)
 
 
 
