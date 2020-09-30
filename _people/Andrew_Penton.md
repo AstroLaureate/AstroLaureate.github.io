@@ -17,4 +17,8 @@ rank: 30
 </div>
  
 # Biography
-**Research interests**
+
+**Research interests**:  Supermassive Black Hole mass measurements using
+    reverberation mapping, Active Galactic Nuclei (AGN) and general relativistic
+    Black Hole simulations.
+
