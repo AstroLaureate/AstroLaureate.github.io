@@ -18,4 +18,4 @@ rank: 20
  
 # Biography
 
-Hayley is the administration assistant helping the laureate team with the day to day running.
+Hayley is the administration assistant helping the laureate team with the day to day running. Office hours Monday, Wednesday and Friday 8.30am - 4.30pm.
