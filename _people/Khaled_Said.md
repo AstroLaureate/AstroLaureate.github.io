@@ -16,7 +16,7 @@ rank: 20
 # Dr Khaled Said
 
 
-*Do we want contact details here or not?*
+[**Email**](mailto:k.saidahmedsoliman@uq.edu.au)
 
 
 
