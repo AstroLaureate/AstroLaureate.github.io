@@ -28,4 +28,4 @@ My main research interests are in observational cosmology, Large Scale Structure
 
 I am a member of DESI, Taipan, WALLABY, 4HS galaxy surveys.
 
-In 2017 I was named the 2017 winner of the IAU and Gruber Foundation Fellowship after receiving my PhD from the University of Cape Town with THREE A's on my PhD examiners reports. This additional grant of 50,000 USD is awarded annually to an extremely promising, young astrophysicist to promote the science of cosmology.
+In 2017 I was named the [**2017 winner of the IAU and Gruber Foundation Fellowship**](https://www.iau.org/news/announcements/detail/ann17019/)  after receiving my PhD from the University of Cape Town with THREE A's on my PhD examiners reports. This additional grant of 50,000 USD is awarded annually to an extremely promising, young astrophysicist to promote the science of cosmology.
