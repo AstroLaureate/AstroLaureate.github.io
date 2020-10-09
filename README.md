@@ -21,6 +21,7 @@ changes to a post, if you wait a second or two and refresh the website it should
 4. For people, "rank" determines sorting order. 50 for Tam, 40 for postdocs, 30 for PhD Candidates, 20 for Honours, and we can fine tune.
 5. Commit and push. Make sure your images are added to git. Everything on master will appear on the primary website within a few minutes.
 
+Notes: main.jpg images are 700x700 pixels, and thumb_cards are 600x400 pixels. 
 
 ### Things you can do in a post
 
