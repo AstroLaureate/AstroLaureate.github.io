@@ -4,7 +4,7 @@ title:  "Liana Rauf"
 desc: "PhD Candidate"
 tags: [PhD Candidate, Current]
 loc: 'people/LianaRauf/'
-permalink: /people/AaronGlanvilleLianaRauf
+permalink: /people/LianaRauf
 rank: 30
 
 ---
