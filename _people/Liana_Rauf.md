@@ -18,4 +18,4 @@ rank: 30
  
 # Biography
 
-**Research interests**: 
+**Research interests**: Gravitational wave astronomy, semi-analytic modelling of galaxy formation and evolution, and stellar population models. 
