@@ -6,7 +6,7 @@ date: 2020-07-13
 categories: [news]
 tags: []
 loc: 'news/remote_observing/'
-permalink: /people/remote_observing
+permalink: /news/remote_observing
 
 ---
 
