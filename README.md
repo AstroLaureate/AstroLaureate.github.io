@@ -13,6 +13,13 @@
 Run either `runLocal.bat` or `runLocal.sh` depending on your OS. It should auto update, so if you make
 changes to a post, if you wait a second or two and refresh the website it should have updated.
 
+Specifically in VS Code:
+
+1. Right-click on `runLocal.bat` and choose "Open in Integrated Terminal".
+2. In the terminal window that pops up, type `runLocal.bat` if you're on windows, `./runLocal.sh` on mac/linux
+3. The server should start, and give you an address to go to view the site. like `http://127.0.0.1:4000/`
+4. You can stop the server by mashing ctrl-c.
+
 ### Adding or editing a new person
 
 1. Make a new markdown file under the relevant folder (`_people` for a new person, or look under `_posts` for news or projects)

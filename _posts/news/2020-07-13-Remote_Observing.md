@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UQ Hosts new remote observing facility"
-desc: ""
+desc: "Observing has never been easier thanks to the power of the internet."
 date: 2020-07-13
 categories: [news]
 tags: []
