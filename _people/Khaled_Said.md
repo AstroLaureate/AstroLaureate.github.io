@@ -9,7 +9,7 @@ rank: 20
 
 ---
  
-{% include image.html url="main.jpg" class="img-mugshot" %}
+{% include image.html url="khaled.jpeg" class="img-mugshot" %}
 
 <div class="text-center" markdown="1">
 
