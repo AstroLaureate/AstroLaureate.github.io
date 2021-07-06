@@ -4,7 +4,7 @@ title:  "Dr Leonardo Giani"
 desc: "Postdoctoral Research Fellow"
 tags: [Staff, Current]
 loc: 'people/LeonardoGiani/'
-permalink: /people/KhaledSaid
+permalink: /people/LeonardoGiani
 rank: 20
 
 ---
