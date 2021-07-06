@@ -1,6 +1,6 @@
 ---
 layout: person
-title:  "Dr Khaled Said Soliman"
+title:  "Dr Khaled Said"
 desc: "Postdoctoral Research Fellow"
 tags: [Staff, Current]
 loc: 'people/KhaledSaid/'
