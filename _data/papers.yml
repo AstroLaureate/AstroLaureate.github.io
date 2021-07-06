@@ -1,56 +1,84 @@
+- title: "Improving NASA/IPAC Extragalactic Database Redshift Calculations"
+  year: 2021
+  month: June
+  authors: Anthony Carr, Tamara Davis
+  journal: ApJ
+  url: https://ui.adsabs.harvard.edu/abs/2021ApJ...914...97C/abstract
+
+- title: "Strengthening the bound on the mass of the lightest neutrino with terrestrial and cosmological experiments"
+  year: 2021
+  month: June
+  authors: "Patrick Stöcker <i>et. al.<i>"
+  journal: PhysRevD
+  url: https://ui.adsabs.harvard.edu/abs/2021PhRvD.103l3508S/abstract
+
+- title: "The effect of systematic redshift biases in BAO cosmology"
+  year: 2021
+  month: May
+  authors: Aaron Glanville, Cullan Howlett, Tamara Davis.
+  journal: MNRAS
+  url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.3510G/abstract
+
+- title: "CosmoBit: a GAMBIT module for computing cosmological observables and likelihoods"
+  year: 2021
+  month: February
+  authors: "Janina J. Renk <i>et. al.<i>"
+  journal: JCAP
+  url: https://ui.adsabs.harvard.edu/abs/2021JCAP...02..022R/abstract
+
 - title: "Constraining the growth rate of structure with phase correlations"
   year: 2020
   month: September
-  authors: Joyce Byun, Felipe Oliveira Franco, Cullan Howlett, Camille Bonvin, Danail Obreschkow
+  authors: Joyce Byun, Felipe Oliveira Franco, Cullan Howlett, Camille Bonvin, Danail Obreschkow.
   journal: MNRAS
   url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.1765B/abstract
+
+- title: "Can an Infinitely Long Object Fit in an Expanding Universe?"
+  year: 2020
+  month: Aug
+  authors: Aaron Glanville, Tamara Davis.
+  journal: PASA
+  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200501968G/abstract
   
 - title: "WALLABY - an SKA Pathfinder HI survey"
   year: 2020
   month: July
-  authors: "Bärbel S. Koribalski <i>et al</i>"
-  journal: MNRAS
+  authors: "Bärbel S. Koribalski <i>et. al.</i>"
+  journal: Ap&SS
   url: https://ui.adsabs.harvard.edu/abs/2020Ap%26SS.365..118K/abstract
  
 - title: "Joint analysis of 6dFGS and SDSS peculiar velocities for the growth rate of cosmic structure and tests of gravity"
   year: 2020
   month: July
-  authors: "Khaled Said <i>et al</i>"
+  authors: "Khaled Said <i>et. al.</i>"
   journal: MNRAS
   url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.1275S/abstract
-
-- title: "Can an Infinitely Long Object Fit in an Expanding Universe?"
-  year: 2020
-  month: May
-  authors: Aaron Glanville, Tamara Davis
-  journal: arXiv
-  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200501968G/abstract
 
 - title: BARRY and the BAO model comparison
   year: 2020
   month: April
-  authors: Samuel Hinton, Cullan Howlett, Tamara Davis
+  authors: Samuel Hinton, Cullan Howlett, Tamara Davis.
   journal: MNRAS
   url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4078H/abstract
 
 - title: "Standard siren speeds: improving velocities in gravitational-wave measurements of H0"
   year: 2020
   month: March
-  authors: Cullan Howlett, Tamara Davis
+  authors: Cullan Howlett, Tamara Davis.
   journal: MNRAS
   url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.3803H/abstract
 
 - title: "Pippin: A pipeline for supernova cosmology"
   year: 2020
   month: March
-  authors: Samuel Hinton, Dillon Brout
+  authors: Samuel Hinton, Dillon Brout.
   journal: JOSS
   url: https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2122H/abstract
 
 - title: Can redshift errors bias measurements of the Hubble Constant?
   year: 2019
   month: December
-  authors: Tamara Davis, Samuel Hinton, Cullan Howlett, Josh Calcino
+  authors: Tamara Davis, Samuel Hinton, Cullan Howlett, Josh Calcino.
   journal: MNRAS
   url: https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2948D/abstract
 
