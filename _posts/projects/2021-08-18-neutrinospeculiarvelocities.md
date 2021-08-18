@@ -24,5 +24,8 @@ The plots below show how the matter power spectrum (which we measure from a gala
 
 Fortunately, we also expect that the masses of neutrinos should impact our measurements of the peculiar motions of galaxies at the present day. This is because, ultimately, we know the motions of galaxies in the universe trace the same underlying distribution of matter as the distribution of galaxies themselves, which, like the CMB also, is influenced by the presence of massive neutrinos in the early universe, and thus contains useful informaiton about their masses.
 
-From preliminary results we expect that galaxy peculiar motions may be able to contribute to the problem of determining the mass of each neutrino.
+From preliminary results we expect that galaxy peculiar motions may be able to contribute to the problem of determining the mass of each neutrino. The below plot shows forecasts for 1 and 2 sigma contours on cosmological parameters including the sum of neutrinos masses for the DESI Bright galaxy survey (blue), then the same when information from the DESI peculiar velocity survey is included (red).
+
+{% include image.html url="thumb/thumb_card.jpeg.png"  %}
+
 
