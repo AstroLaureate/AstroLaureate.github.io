@@ -5,4 +5,6 @@ desc: "How the heaviest existing objects in the universe might tell us about the
 date: 2021-18_08
 categories: [project]
 tags: []
+loc: projects/neutrinos_peculiar_velocities/
+permalink: /projects/neutrinos_peculiar_velocities
 ---
