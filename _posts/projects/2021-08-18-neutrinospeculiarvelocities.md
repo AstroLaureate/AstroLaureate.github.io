@@ -18,9 +18,9 @@ The fact that neutrinos have mass, has important consequences for cosmology. The
 
 The plots below show how the matter power spectrum (which we measure from a galaxy survey) and the CMB temperature power spectrum (something else that comes from measurements of the CMB photons in the sky) changes if the sum of masses of neutrinos changes, thus allowing us to derive constraints. It should be noted here a very wide range of neutrino masses (some values of which we know aren’t possible) have been used in these plots deliberately to exaggerate the effects of their masses.
 
-![alt text](plot_blog_CMB_laureate_website.png)
+{% include image.html url="plot_blog_CMB_laureate_website.png"  %}
 
-![alt text](plot_blog_matterpower_laureate_website.png)
+{% include image.html url="plot_blog_matterpower_laureate_website.png"  %}
 
 Fortunately, we also expect that the masses of neutrinos should impact our measurements of the peculiar motions of galaxies at the present day. This is because, ultimately, we know the motions of galaxies in the universe trace the same underlying distribution of matter as the distribution of galaxies themselves, which, like the CMB also, is influenced by the presence of massive neutrinos in the early universe, and thus contains useful informaiton about their masses.
 
