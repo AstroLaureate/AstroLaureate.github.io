@@ -4,7 +4,7 @@ title:  "Yan Lai"
 desc: "PhD Candidate"
 tags: [PhD Candidate, Current]
 loc: 'people/YanLai/'
-permalink: /people/YanLai/
+permalink: /people/YanLai
 rank: 30
 
 ---
