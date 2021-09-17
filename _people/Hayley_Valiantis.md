@@ -5,7 +5,7 @@ desc: "Administrative Officer"
 tags: [Staff, Current]
 loc: 'people/HayleyValiantis/'
 permalink: /people/HayleyValiantis
-rank: 30
+rank: 50
 
 ---
  
