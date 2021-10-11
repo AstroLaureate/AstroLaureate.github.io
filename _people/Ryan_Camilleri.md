@@ -18,3 +18,5 @@ rank: 40
 
 [**Email**](mailto:r.camilleri@uq.edu.au)
 
+# Researcher biography
+Currently completing an Honours Thesis which aims to investigate exotic cosmological models using the latest Dark Energy Survey (DES) data. The project is supervised by Professor Tamara Davis.
