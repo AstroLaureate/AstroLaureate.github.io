@@ -28,5 +28,6 @@ I am a Cosmologist studying the properties of the Universe on the largest scales
 
 I am a member of the two key experiments designed to understand dark energy and gravity, the Dark Energy Spectroscopic Instrument (DESI) and the Large Synoptic Survey Telescope (LSST). I am also a member of the Taipan Galaxy Survey. I am lead of the DESI sub-working group: C3-cosmology analysis framework.
 Between 2014 and 2020 I was also member of:
+
 • The Sloan Digital Sky Survey (SDSS).  
- • European Space Agency (ESA) and the Euclid Consortium.  
+• European Space Agency (ESA) and the Euclid Consortium.  
