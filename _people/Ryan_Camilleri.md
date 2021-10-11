@@ -5,7 +5,7 @@ desc: "Honours Candidate"
 tags: [Staff, Current]
 loc: 'people/RyanCamilleri/'
 permalink: /people/RyanCamilleri
-rank: 30
+rank: 40
 
 ---
  
