@@ -10,7 +10,6 @@ rank: 20
 ---
  
 {% include image.html url="main.jpg" class="img-mugshot" %}
-
 <div class="text-center" markdown="1">
 
 # Dr Khaled Said
