@@ -21,8 +21,7 @@ I started honours in Feb 2020 and I am expecting to submit my thesis at the end 
 
 **Research interests**: 
  
-I graduated from Griffith University with a BSc (majoring in physics and mathematics) in 2019. I started honours in 2020 at UQ to pursue my interest in astrophysics and cosmology. My honours project is supervised by Dr Cullan Howlett and Professor Tamara Davis.
+I graduated from Griffith University with a BSc (majoring in physics and mathematics) in 2019. I completed honours in 2020 at University of Queensland to pursue my interest in astrophysics and cosmology. My honours project was supervised by Dr Cullan Howlett and Professor Tamara Davis
  
-My project I am working on can be summarised as:
- 
+My project can be summarised as:
 Attempting to forecast the ability of future peculiar velocity surveys to put a constraint on the masses of neutrinos.
