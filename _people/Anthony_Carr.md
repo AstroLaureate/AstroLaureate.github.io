@@ -28,7 +28,7 @@ I am also currently in charge of the ‘Global Redshift Catalogue’ which is a 
 
 As part of my research I have led two observing programs using the 2.3 metre telescope and the Anglo Australian Telescope at Siding Spring Observatory, NSW. With the 2.3m telescope, we used the Wide Field Spectrograph (WiFeS) instrument specifically  to measure a swathe of sky/target instead of a single point. We were able to measure the redshifts of over 200 nearby supernova hosts. An example observation of the famous Antennae Galaxies, which hosted a supernova in 2007, is shown below. Each pixel in the inset is a separate spectrum from which we can measure an individual redshift. 
 
-![antennae galaxies](antennae.galaxies.jpg)
+![antennae.galaxies](antennae.galaxies.jpg)
 
 Another example below is of a galaxy that hosted a supernova in 2005. This galaxy is not entirely face-on, so we can see the its rotation through the slightly difference recession velocity of each individual pixel in the gif.  The gif steps through wavelength around a particular bright emission line, which shows that the top left of the galaxy is more redshifted than the bottom right. The region we can see appears to be rotating at roughly 70 km/s.
 
