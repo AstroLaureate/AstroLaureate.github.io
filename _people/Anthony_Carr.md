@@ -31,5 +31,4 @@ As part of my research I have led two observing programs using the 2.3 metre tel
 {% include image.html url="antennae_galaxies.jpg" caption="Antennae Galaxies." %}
 
 Another example below is of a galaxy that hosted a supernova in 2005. This galaxy is not entirely face-on, so we can see the its rotation through the slightly difference recession velocity of each individual pixel in the gif.  The gif steps through wavelength around a particular bright emission line, which shows that the top left of the galaxy is more redshifted than the bottom right. The region we can see appears to be rotating at roughly 70 km/s.
-
 {% include image.html url="SN_2005bo.gif" %}{% include image.html url="SN2005_bofig.jpg" %}
