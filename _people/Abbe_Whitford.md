@@ -17,7 +17,7 @@ rank: 40
 </div>
  
 # Biography
-I started honours in Feb 2020 and I am expecting to submit my thesis at the end of this semester.
+I completed honours in 2021 and I am hoping to commence a PhD in Astrophysics in 2022.
 
 **Research interests**: 
  
