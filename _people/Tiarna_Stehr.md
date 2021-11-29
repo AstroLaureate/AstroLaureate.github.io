@@ -18,5 +18,5 @@ rank: 50
  
 # Biography
 
-Tiarna is the Administration and Engagement Assistant helping Hayley and Tamara and the laureate team with the day to day running. 
+Tiarna is the Administration and Engagement Assistant helping Hayley and Tamara and the Laureate team with the day to day running. 
 Office hours Monday and Friday 8.00am - 4.00pm.
