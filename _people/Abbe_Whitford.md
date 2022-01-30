@@ -1,8 +1,8 @@
 ---
 layout: person
 title:  "Abbe Whitford"
-desc: "Honours Candidate"
-tags: [Honours Candidate, Current]
+desc: "PhD Candidate"
+tags: [PhD Candidate, Current]
 loc: 'people/AbbeWhitford/'
 permalink: /people/AbbeWhitford
 rank: 40
