@@ -26,6 +26,6 @@ Fortunately, we also expect that the masses of neutrinos should impact our measu
 
 From our results we expect that galaxy peculiar motions may be able to contribute to the problem of determining the mass of each neutrino. The below plot shows forecasts for 1 and 2 sigma contours on cosmological parameters including the sum of neutrinos masses for the WALLABY redshift survey (blue), then the same when information from the WALLABY peculiar velocity survey is included (red).
 
-{% include image.html url="thumb/thumb_card.jpeg.png"  %}
+{% include image.html url="newversion_Figure6_contours_WALLABY_Redshifts_PVs_Planck_kmax02h_Nefffixed.png"  %}
 
 
