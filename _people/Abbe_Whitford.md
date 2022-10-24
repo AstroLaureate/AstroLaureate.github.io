@@ -9,7 +9,7 @@ rank: 40
 
 ---
  
-{% include image.html url="main.jpg" class="img-mugshot" %}
+{% include image.html url="thumb_card.jpg" class="img-mugshot" %}
 <div class="text-center" markdown="1">
 
 # Abbe Whitford
