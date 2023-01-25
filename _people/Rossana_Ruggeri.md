@@ -20,7 +20,6 @@ rank: 20
 
  
 
-
 </div>
  
 # Researcher biography
@@ -45,7 +44,6 @@ I am passionate about communicating top-level research ideas to audiences outsid
 
  Since 2021 I am on the <a href="https://asa-ecr.org/">Early Career Chapter </a> committee for the <a href="https://asa.astronomy.org.au/"> Astronomical Society of Australia </a> (ASA) to promote and assist the career development of early and mid-career researchers in the Australian astronomy community. I am also part of the <a href="https://staff.uq.edu.au/information-and-services/health-safety-wellbeing/personal/wellness">Wellbeing ambassador program </a> at University of Queensland, to promote and assist the career development of early and mid-career researchers in the Australian astronomy community.  
 
-</div>
 
 # Links
 A link to personal website can be found <a href="https://rossanaruggeri.github.io/" target="_blank"><span> here. </span></a>
