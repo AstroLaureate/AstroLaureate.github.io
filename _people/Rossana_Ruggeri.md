@@ -34,10 +34,21 @@ Between 2014 and 2020 I was also member of:
 
 I am actively participating in the key experiments designed to understand dark energy and gravity. I am co-chair of the <a href="https://www.desi.lbl.gov/"> Dark Energy Spectroscopic Instrument</a> (DESI) lensing working group, and a active member of the <a href="https://www.lsst.org/"> Vera Rubin Observatory</a> (LSST) and the <a href="https://www.darkenergysurvey.org/"> Dark Energy Survey (DES)</a>. In the past I had lead science with the  <a href="https://classic.sdss.org/">Sloan Digital Sky Survey</a>,  one of the major quests of contemporary physics that has spurred advancement in answering a range of fundamental questions about the origins of the universe
 	                    </p></p>
-I am passionate about communicating top-level research ideas to audiences outside our immediate academic sub-community. I have experience on a variety of media, including radio, public talks and lectures to local schools, science festivals and amateur astronomy groups, outreach activities at <a href="http://www.icg.port.ac.uk/stargazing/">Stargazing Live events</a>, as well as through written pieces.
-					    </p>
+I am passionate about communicating top-level research ideas to audiences outside our immediate academic sub-community. I have experience on a variety of media, including radio, public talks and lectures to local schools, science festivals and amateur astronomy groups, outreach activities at <a href="http://www.icg.port.ac.uk/stargazing/">Stargazing Live events</a>, as well as through written pieces. </p>
 
-					     </p>I am an advocate for making STEM field accessible to everyone. 
-					    During my career, I took part into different initiatives aiming to reduce structural barriers faced by different minorities in academia and inspire the next generation of STEM careers. I am part of the <a href="https://www.uqu.com.au/club/women-in-science-association"> Women in Science Association</a> with the aim to foster a community for young women in STEM, within and beyond the academic community. I worked and volunteered at N.G.O. centres, in Italy and Australia supporting young students to overcome educational inequality caused by poverty and other conditions.</p></p> 
-					     Since 2021 I am on the <a href="https://asa-ecr.org/">Early Career Chapter </a> committee for the <a href="https://asa.astronomy.org.au/"> Astronomical Society of Australia </a> (ASA) to promote and assist the career development of early and mid-career researchers in the Australian astronomy community. I am also part of the <a href="https://staff.uq.edu.au/information-and-services/health-safety-wellbeing/personal/wellness">Wellbeing ambassador program </a> at University of Queensland, to promote and assist the career development of early and mid-career researchers in the Australian astronomy community. </p>
+</p> I am an advocate for making STEM field accessible to everyone.  During my career, I took part into different initiatives aiming to reduce structural barriers faced by different minorities in academia and inspire the next generation of STEM careers. I am part of the <a href="https://www.uqu.com.au/club/women-in-science-association"> Women in Science Association</a> with the aim to foster a community for young women in STEM, within and beyond the academic community. I worked and volunteered at N.G.O. centres, in Italy and Australia supporting young students to overcome educational inequality caused by poverty and other conditions.</p>
+
+</p> Since 2021 I am on the <a href="https://asa-ecr.org/">Early Career Chapter </a> committee for the <a href="https://asa.astronomy.org.au/"> Astronomical Society of Australia </a> (ASA) to promote and assist the career development of early and mid-career researchers in the Australian astronomy community. I am also part of the <a href="https://staff.uq.edu.au/information-and-services/health-safety-wellbeing/personal/wellness">Wellbeing ambassador program </a> at University of Queensland, to promote and assist the career development of early and mid-career researchers in the Australian astronomy community. </p>
+
+    <!-- Publications -->
+    <section id="publications">
+	<h2>Research Outputs</h2>
+	<div class="row">
+		<article class= "work-item">
+		<!-- <article class="col-6 col-12-xsmall work-item"> -->
+		   A list of my recent   publications 
+		   can be found <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FRuggeri%2C%20R%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FRuggeri%2C%20R%22)&fq_database=(database%3A%22astronomy%22)&q=%20author%3A%22rossana%20ruggeri%22%20year%3A2010-2025&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank"><span> here. </span></a>
+            <br />  
+		   A list of available projects for honours and PhD at UQ, can be found <a href="https://smp.uq.edu.au/project/unraveling-mysteries-dark-energy-3d-map-universe" target="_blank"><span> here. </span></a>
+	  	</article>
 					
