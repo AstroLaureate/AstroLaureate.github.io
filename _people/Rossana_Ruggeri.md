@@ -25,7 +25,7 @@ rank: 20
  
 # Researcher biography
 
-**I am a Cosmologist studying the properties of the Universe on the largest scales.**
+ _I am a Cosmologist studying the properties of the Universe on the largest scales..._
 By mapping the positions of millions of galaxies, I investigate the unknown physics of the dark energy which drives the evolution of the Universe today, and the physics just after the Big Bang, when the ripples which grew under gravity to become galaxies were created.
 
 <!-- 
