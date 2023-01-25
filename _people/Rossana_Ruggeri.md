@@ -41,8 +41,6 @@ I am passionate about communicating top-level research ideas to audiences outsid
 </p> Since 2021 I am on the <a href="https://asa-ecr.org/">Early Career Chapter </a> committee for the <a href="https://asa.astronomy.org.au/"> Astronomical Society of Australia </a> (ASA) to promote and assist the career development of early and mid-career researchers in the Australian astronomy community. I am also part of the <a href="https://staff.uq.edu.au/information-and-services/health-safety-wellbeing/personal/wellness">Wellbeing ambassador program </a> at University of Queensland, to promote and assist the career development of early and mid-career researchers in the Australian astronomy community. </p>
 
 </div>
- 
-# Researcher outputs
 
 A list of my recent   publications can be found <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FRuggeri%2C%20R%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FRuggeri%2C%20R%22)&fq_database=(database%3A%22astronomy%22)&q=%20author%3A%22rossana%20ruggeri%22%20year%3A2010-2025&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank"><span> here. </span></a>
             <br />  
