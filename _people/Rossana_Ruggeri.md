@@ -16,7 +16,7 @@ rank: 20
 # Dr Rossana Ruggeri
 
 
-[**Email**](mailto:r.ruggeri@uq.edu.au)  \| [**LinkedIn**](https://www.linkedin.com/in/rossana-ruggeri-476b591a2/) \|
+[**Email**](mailto:r.ruggeri@uq.edu.au)  \| [**Personal Website **](https://rossanaruggeri.github.io/) \| [**LinkedIn**](https://www.linkedin.com/in/rossana-ruggeri-476b591a2/) \|
 
 
 
