@@ -28,4 +28,5 @@ From our results we expect that galaxy peculiar motions may be able to contribut
 
 {% include image.html url="newversion_Figure6_contours_WALLABY_Redshifts_PVs_Planck_kmax02h_Nefffixed.png"  %}
 
+by Abbé Whitford
 
