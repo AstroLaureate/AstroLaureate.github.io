@@ -18,7 +18,7 @@ rank: 30
  
 # Biography
 
-**Research interests**: Studying the distribution of galaxies to reveal
+**Research interests**: Hello! Studying the distribution of galaxies to reveal
 the properties of the universe using machine learning and other modern
 data analysis techniques.
 
