@@ -20,5 +20,5 @@ rank: 50
 
 Tiarna is the Administration and Engagement Assistant helping Hayley and Tamara and the Laureate team with the day to day running. 
 
-Office hours Monday - Thursday.
+Office hours Monday - Friday.
  
