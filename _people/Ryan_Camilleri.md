@@ -1,7 +1,7 @@
 ---
 layout: person
 title:  "Ryan Camilleri"
-desc: "Honours Candidate"
+desc: "PhD Candidate"
 tags: [Staff, Current]
 loc: 'people/RyanCamilleri/'
 permalink: /people/RyanCamilleri
