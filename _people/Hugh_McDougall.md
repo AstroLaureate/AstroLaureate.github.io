@@ -23,4 +23,4 @@ rank: 40
  
 # Researcher biography
 
-Active Galactic Nuclei, Bayesian Statistics and modelling of signals as Gaussian Processes.
+Research interests: Active Galactic Nuclei, Bayesian Statistics and modelling of signals as Gaussian Processes.
