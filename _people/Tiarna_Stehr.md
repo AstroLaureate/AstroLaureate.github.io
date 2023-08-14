@@ -10,7 +10,7 @@ rank: 50
 ---
  
 {% include image.html url="main.jpg" class="img-mugshot" %}
-<div class="text-center" markdown="1">
+<div class="text-center" markdown="1"> 
 
 # Tiarna Stehr
 [**Email**](mailto:t.stehr@uq.edu.au)
