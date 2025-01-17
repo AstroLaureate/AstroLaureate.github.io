@@ -5,8 +5,8 @@ desc: "Looking at the phase shift in the BAO wiggles to measure the effective nu
 date: 2024-12-17
 categories: [project]
 tags: 
-loc: projects/phaseshiftmeasurements
-permalink: /projects/phaseshiftmeasurements
+loc: projects/BAOphaseshift
+permalink: /projects/BAOphaseshift
 ---
 
 
